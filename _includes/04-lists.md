@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- indian food :heart:
+- chinese food :chopsticks:
+- greek food :+1:
